@@ -1,0 +1,63 @@
+C:\Users\nana\Desktop\SweetHeart (3)\bin\Debug\MyQQ.exe.config
+C:\Users\nana\Desktop\SweetHeart (3)\bin\Debug\MyQQ.exe
+C:\Users\nana\Desktop\SweetHeart (3)\bin\Debug\MyQQ.pdb
+C:\Users\nana\Desktop\SweetHeart (3)\bin\Debug\zu-ZA\MyQQ.resources.dll
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\SweetHeart.csprojAssemblyReference.cache
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Login.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Chat.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Head.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Register.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Main.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_EditInfo.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Properties.Resources.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Remind.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_AddFriend.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.Frm_Head.zu-ZA.resources
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\SweetHeart.csproj.GenerateResource.cache
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\SweetHeart.csproj.CoreCompileInputs.cache
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\zu-ZA\MyQQ.resources.dll
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.exe
+C:\Users\nana\Desktop\SweetHeart (3)\obj\Debug\MyQQ.pdb
+C:\Users\nana\Desktop\SweetHeart\bin\Debug\MyQQ.exe.config
+C:\Users\nana\Desktop\SweetHeart\bin\Debug\MyQQ.exe
+C:\Users\nana\Desktop\SweetHeart\bin\Debug\MyQQ.pdb
+C:\Users\nana\Desktop\SweetHeart\bin\Debug\zu-ZA\MyQQ.resources.dll
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\SweetHeart.csprojAssemblyReference.cache
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Login.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Chat.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Head.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Register.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Main.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_EditInfo.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Properties.Resources.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Remind.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_AddFriend.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.Frm_Head.zu-ZA.resources
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\SweetHeart.csproj.GenerateResource.cache
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\SweetHeart.csproj.CoreCompileInputs.cache
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\zu-ZA\MyQQ.resources.dll
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.exe
+C:\Users\nana\Desktop\SweetHeart\obj\Debug\MyQQ.pdb
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\SweetHeart.csprojAssemblyReference.cache
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Login.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Chat.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Head.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Register.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Main.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_EditInfo.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Properties.Resources.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Remind.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_AddFriend.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.Frm_Head.zu-ZA.resources
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\SweetHeart.csproj.GenerateResource.cache
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\SweetHeart.csproj.CoreCompileInputs.cache
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.exe
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\MyQQ.pdb
+C:\Users\nana\Desktop\SweetHeart222\bin\Debug\MyQQ.exe.config
+C:\Users\nana\Desktop\SweetHeart222\bin\Debug\MyQQ.exe
+C:\Users\nana\Desktop\SweetHeart222\bin\Debug\MyQQ.pdb
+C:\Users\nana\Desktop\SweetHeart222\bin\Debug\zu-ZA\MyQQ.resources.dll
+C:\Users\nana\Desktop\SweetHeart222\bin\Debug\_SCREEN_CAPTURE.dll
+C:\Users\nana\Desktop\SweetHeart222\bin\Debug\_SCREEN_CAPTURE.pdb
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\zu-ZA\MyQQ.resources.dll
+C:\Users\nana\Desktop\SweetHeart222\obj\Debug\SweetHeart.csproj.CopyComplete
